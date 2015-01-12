@@ -1,0 +1,2 @@
+# MCChatEditor
+GUI for /tellraw
